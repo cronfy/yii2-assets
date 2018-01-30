@@ -1,7 +1,7 @@
 {
-  "name": "cronfy/yii2-bootstrap3-cdn-asset",
+  "name": "cronfy/yii2-assets",
   "license": "MIT",
-  "description": "Yii2 Bootstrap3 CDN Asset",
+  "description": "Yii2 common assets",
 
   "require": {
     "php": ">=5.6.0"
@@ -9,7 +9,7 @@
 
   "autoload": {
     "psr-4": {
-      "cronfy\\yii2Bootstrap3CdnAsset\\": "src/"
+      "cronfy\\yii2Assets\\": "src/"
     }
   }
 }
